@@ -1,4 +1,3 @@
-bioinformatics_useful_kits
-==========================
+机器学习
+==================
 
-just have practice and have fun
